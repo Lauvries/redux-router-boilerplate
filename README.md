@@ -3,6 +3,8 @@
 Simple react starter with the following config:
 
 - React, ReactDOM
+- logger
+- router
 - Webpack 4
 - Redux 4.0.5
 - Babel with es2015 and react presets
