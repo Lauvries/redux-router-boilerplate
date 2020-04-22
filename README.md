@@ -1,12 +1,12 @@
 # Destroy existing boilerplate git history, and start a new one
-rm -rf .git
-git init
-git add .
-git commit -m "Initial commit with boilerplate"
+- rm -rf .git
+- git init
+- git add .
+- git commit -m "Initial commit with boilerplate"
 
 # Create a GitHub repo, and push!
-hub create
-git push origin master
+- hub create
+- git push origin master
 
 Simple react starter with the following config:
 
